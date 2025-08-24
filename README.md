@@ -1,16 +1,36 @@
-## Hi there 👋
+## Hi there 👋 I am Nina Villodo!
 
 <!--
 **anyaaa-nini/anyaaa-nini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 👩‍💻 About Me  
+- 🎓 BSIT Student at **Laguna State Polytechnic University**  
+- 📚 Currently learning **CodeIgniter, PHP, MySQL, Flutter, and Dart**  
+- 🎯 Goal: To become a skilled **Web and Mobile Application Developer**  
+- 💡 Interested in **System Development, Mobile Apps, and Tech Innovation**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+## 🛠 Skills  
+- **Languages:** PHP, Dart, SQL, HTML, CSS  
+- **Frameworks/Tools:** CodeIgniter, Flutter, Git, GitHub  
+- **Other:** Database Management, Web Development, UI/UX Basics  
+
+---
+
+## 🚀 Current Projects  
+- 🌱 Building a **Digital Permit Verification System** for DENR CENRO *(Capstone Project)*  
+- 📝 Developing practice apps in **Flutter** and **PHP**  
+- 🔧 Exploring backend development with **MySQL** and **CodeIgniter**  
+
+---
+
+## 🤝 Connect with Me  
+- 📧 Email: *villodonina4@gmail.com*  
+
+---
+
+✨ *“Code with passion, build with purpose.”* ✨
+
+
 -->
