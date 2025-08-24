@@ -1,7 +1,6 @@
-## Hi there 👋 I am Nina Villodo!
+## Hi there 👋, I am Nina Villodo!
 
 <!--
-**anyaaa-nini/anyaaa-nini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # 👩‍💻 About Me  
 - 🎓 BSIT Student at **Laguna State Polytechnic University**  
